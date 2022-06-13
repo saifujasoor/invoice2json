@@ -1,0 +1,811 @@
+{
+    "form": [
+        {
+            "topleft": {
+                "x": 313,
+                "y": 117
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 526,
+                        "y": 117,
+                        "x1": 1062,
+                        "y1": 133
+                    },
+                    "text": "STRAIGHT BILL OF LADING - SHORT FORM - ORIGINAL - Not Negotiable"
+                },
+                {
+                    "box": {
+                        "x": 313,
+                        "y": 143,
+                        "x1": 1274,
+                        "y1": 170
+                    },
+                    "text": "Subject to the classifications and tariffs in effect on the date of the issue of this Bill of Lading"
+                },
+                {
+                    "box": {
+                        "x": 738,
+                        "y": 179,
+                        "x1": 1320,
+                        "y1": 197
+                    },
+                    "text": "SEND FREIGHT BILL WITH COPY OF BILL OF LADING TO:"
+                }
+            ],
+            "id": "P0B1",
+            "page": 1,
+            "bottomright": {
+                "x1": 1320,
+                "y1": 197
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 1415,
+                "y": 142
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 1415,
+                        "y": 142,
+                        "x1": 1531,
+                        "y1": 161
+                    },
+                    "text": "WHSE B/L"
+                }
+            ],
+            "id": "P0B2",
+            "page": 1,
+            "bottomright": {
+                "x1": 1531,
+                "y1": 161
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 92,
+                "y": 172
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 92,
+                        "y": 172,
+                        "x1": 1530,
+                        "y1": 194
+                    },
+                    "text": "SHIP FROM 0000353433"
+                }
+            ],
+            "id": "P0B3",
+            "page": 1,
+            "bottomright": {
+                "x1": 1530,
+                "y1": 194
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 1413,
+                "y": 211
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 1413,
+                        "y": 211,
+                        "x1": 1524,
+                        "y1": 227
+                    },
+                    "text": "Arrive Date"
+                }
+            ],
+            "id": "P0B4",
+            "page": 1,
+            "bottomright": {
+                "x1": 1524,
+                "y1": 227
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 1415,
+                "y": 242
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 1415,
+                        "y": 242,
+                        "x1": 1493,
+                        "y1": 259
+                    },
+                    "text": "12/20/19"
+                }
+            ],
+            "id": "P0B5",
+            "page": 1,
+            "bottomright": {
+                "x1": 1493,
+                "y1": 259
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 1412,
+                "y": 278
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 1412,
+                        "y": 278,
+                        "x1": 1507,
+                        "y1": 299
+                    },
+                    "text": "Ship Date"
+                }
+            ],
+            "id": "P0B6",
+            "page": 1,
+            "bottomright": {
+                "x1": 1507,
+                "y1": 299
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 1414,
+                "y": 310
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 1414,
+                        "y": 310,
+                        "x1": 1491,
+                        "y1": 327
+                    },
+                    "text": "12/23/19"
+                }
+            ],
+            "id": "P0B7",
+            "page": 1,
+            "bottomright": {
+                "x1": 1491,
+                "y1": 327
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 1411,
+                "y": 349
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 1411,
+                        "y": 349,
+                        "x1": 1517,
+                        "y1": 366
+                    },
+                    "text": "Order Date"
+                }
+            ],
+            "id": "P0B8",
+            "page": 1,
+            "bottomright": {
+                "x1": 1517,
+                "y1": 366
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 1412,
+                "y": 379
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 1412,
+                        "y": 379,
+                        "x1": 1490,
+                        "y1": 396
+                    },
+                    "text": "12/16/19"
+                }
+            ],
+            "id": "P0B9",
+            "page": 1,
+            "bottomright": {
+                "x1": 1490,
+                "y1": 396
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 1410,
+                "y": 419
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 1410,
+                        "y": 419,
+                        "x1": 1467,
+                        "y1": 435
+                    },
+                    "text": "Route"
+                }
+            ],
+            "id": "P0B10",
+            "page": 1,
+            "bottomright": {
+                "x1": 1467,
+                "y1": 435
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 1409,
+                "y": 447
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 1409,
+                        "y": 447,
+                        "x1": 1479,
+                        "y1": 463
+                    },
+                    "text": "TRUCK"
+                }
+            ],
+            "id": "P0B11",
+            "page": 1,
+            "bottomright": {
+                "x1": 1479,
+                "y1": 463
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 1410,
+                "y": 484
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 1410,
+                        "y": 484,
+                        "x1": 1556,
+                        "y1": 506
+                    },
+                    "text": "Freight Charge"
+                }
+            ],
+            "id": "P0B12",
+            "page": 1,
+            "bottomright": {
+                "x1": 1556,
+                "y1": 506
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 1409,
+                "y": 516
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 1409,
+                        "y": 516,
+                        "x1": 1551,
+                        "y1": 531
+                    },
+                    "text": "THRDPTYTRM"
+                }
+            ],
+            "id": "P0B13",
+            "page": 1,
+            "bottomright": {
+                "x1": 1551,
+                "y1": 531
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 1371,
+                "y": 588
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 1371,
+                        "y": 588,
+                        "x1": 1538,
+                        "y1": 609
+                    },
+                    "text": "Shippers Ref No."
+                },
+                {
+                    "box": {
+                        "x": 1371,
+                        "y": 620,
+                        "x1": 1448,
+                        "y1": 636
+                    },
+                    "text": "8176681"
+                }
+            ],
+            "id": "P0B14",
+            "page": 1,
+            "bottomright": {
+                "x1": 1538,
+                "y1": 636
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 762,
+                "y": 226
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 762,
+                        "y": 226,
+                        "x1": 888,
+                        "y1": 242
+                    },
+                    "text": "BETT-A-WAY"
+                }
+            ],
+            "id": "P0B15",
+            "page": 1,
+            "bottomright": {
+                "x1": 888,
+                "y1": 242
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 764,
+                "y": 229
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 764,
+                        "y": 229,
+                        "x1": 1351,
+                        "y1": 325
+                    },
+                    "text": "110 SYLVANIA PLACE Z 16: g L/ ;"
+                }
+            ],
+            "id": "P0B16",
+            "page": 1,
+            "bottomright": {
+                "x1": 1351,
+                "y1": 325
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 118,
+                "y": 260
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 118,
+                        "y": 260,
+                        "x1": 399,
+                        "y1": 282
+                    },
+                    "text": "c/o Saddle Creek Corporation"
+                },
+                {
+                    "box": {
+                        "x": 119,
+                        "y": 292,
+                        "x1": 264,
+                        "y1": 310
+                    },
+                    "text": "6565 Kott Ave"
+                }
+            ],
+            "id": "P0B17",
+            "page": 1,
+            "bottomright": {
+                "x1": 399,
+                "y1": 310
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 124,
+                "y": 424
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 124,
+                        "y": 424,
+                        "x1": 293,
+                        "y1": 442
+                    },
+                    "text": "WALMART #7047"
+                },
+                {
+                    "box": {
+                        "x": 127,
+                        "y": 457,
+                        "x1": 446,
+                        "y1": 477
+                    },
+                    "text": "13553-A SAN BERNARDINO AVE"
+                }
+            ],
+            "id": "P0B18",
+            "page": 1,
+            "bottomright": {
+                "x1": 446,
+                "y1": 477
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 91,
+                "y": 500
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 91,
+                        "y": 500,
+                        "x1": 348,
+                        "y1": 569
+                    },
+                    "text": "E\\FiNTANA. CA 92335"
+                }
+            ],
+            "id": "P0B19",
+            "page": 1,
+            "bottomright": {
+                "x1": 348,
+                "y1": 569
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 75,
+                "y": 589
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 75,
+                        "y": 589,
+                        "x1": 188,
+                        "y1": 605
+                    },
+                    "text": "Vehicle No."
+                },
+                {
+                    "box": {
+                        "x": 76,
+                        "y": 621,
+                        "x1": 109,
+                        "y1": 637
+                    },
+                    "text": "317"
+                }
+            ],
+            "id": "P0B20",
+            "page": 1,
+            "bottomright": {
+                "x1": 188,
+                "y1": 637
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 170,
+                "y": 699
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 223,
+                        "y": 699,
+                        "x1": 1575,
+                        "y1": 732
+                    },
+                    "text": "Qty Qty Item No. -UPC Description / Manufacturer Code Gross"
+                },
+                {
+                    "box": {
+                        "x": 158,
+                        "y": 726,
+                        "x1": 1565,
+                        "y1": 758
+                    },
+                    "text": "Ordered Shipped Wgt"
+                }
+            ],
+            "id": "P0B21",
+            "page": 1,
+            "bottomright": {
+                "x1": 1575,
+                "y1": 754
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 459,
+                "y": 773
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 459,
+                        "y": 773,
+                        "x1": 1212,
+                        "y1": 798
+                    },
+                    "text": "1004015 - 613008742775 AZ PEACH TEA 4PK/GALLONS"
+                }
+            ],
+            "id": "P0B22",
+            "page": 1,
+            "bottomright": {
+                "x1": 1212,
+                "y1": 798
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 460,
+                "y": 840
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 926,
+                        "y": 840,
+                        "x1": 1599,
+                        "y1": 860
+                    },
+                    "text": "110519 3,900"
+                },
+                {
+                    "box": {
+                        "x": 460,
+                        "y": 879,
+                        "x1": 1230,
+                        "y1": 903
+                    },
+                    "text": "1004022 - 613008740399 AZ MUCHO MANGO 4/GALLONS"
+                }
+            ],
+            "id": "P0B23",
+            "page": 1,
+            "bottomright": {
+                "x1": 1599,
+                "y1": 903
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 460,
+                "y": 945
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 925,
+                        "y": 945,
+                        "x1": 1598,
+                        "y1": 965
+                    },
+                    "text": "120719 1,950"
+                },
+                {
+                    "box": {
+                        "x": 460,
+                        "y": 984,
+                        "x1": 1214,
+                        "y1": 1008
+                    },
+                    "text": "1004024 - 613008740429 AZ WATERMELON 4/GALLONS"
+                }
+            ],
+            "id": "P0B24",
+            "page": 1,
+            "bottomright": {
+                "x1": 1598,
+                "y1": 1008
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 461,
+                "y": 1051
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 924,
+                        "y": 1051,
+                        "x1": 1596,
+                        "y1": 1070
+                    },
+                    "text": "121319 15,600"
+                },
+                {
+                    "box": {
+                        "x": 461,
+                        "y": 1087,
+                        "x1": 1180,
+                        "y1": 1112
+                    },
+                    "text": "1104060 - 613008735142 AZ LEMON TEA 4/GALLONS"
+                }
+            ],
+            "id": "P0B25",
+            "page": 1,
+            "bottomright": {
+                "x1": 1596,
+                "y1": 1112
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 872,
+                "y": 1150
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 924,
+                        "y": 1150,
+                        "x1": 1594,
+                        "y1": 1182
+                    },
+                    "text": "120319 7,860"
+                },
+                {
+                    "box": {
+                        "x": 924,
+                        "y": 1188,
+                        "x1": 1594,
+                        "y1": 1221
+                    },
+                    "text": "120419 15,720"
+                },
+                {
+                    "box": {
+                        "x": 872,
+                        "y": 1230,
+                        "x1": 1591,
+                        "y1": 1253
+                    },
+                    "text": "PECO Pallet(s) 720"
+                },
+                {
+                    "box": {
+                        "x": 873,
+                        "y": 1271,
+                        "x1": 1594,
+                        "y1": 1295
+                    },
+                    "text": "White Wood Pallet(s) 385"
+                },
+                {
+                    "box": {
+                        "x": 872,
+                        "y": 1311,
+                        "x1": 1594,
+                        "y1": 1335
+                    },
+                    "text": "IGPS Pallet(s) 0"
+                }
+            ],
+            "id": "P0B26",
+            "page": 1,
+            "bottomright": {
+                "x1": 1594,
+                "y1": 1335
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 73,
+                "y": 1433
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 73,
+                        "y": 1433,
+                        "x1": 1528,
+                        "y1": 1468
+                    },
+                    "text": "Freight Class Qty Weight"
+                },
+                {
+                    "box": {
+                        "x": 73,
+                        "y": 1480,
+                        "x1": 1530,
+                        "y1": 1516
+                    },
+                    "text": "NMFC - 72160  Freight Class - 60 1,150.0 45,030.0"
+                }
+            ],
+            "id": "P0B27",
+            "page": 1,
+            "bottomright": {
+                "x1": 1530,
+                "y1": 1510
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 48,
+                "y": 2207
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 48,
+                        "y": 2207,
+                        "x1": 103,
+                        "y1": 2225
+                    },
+                    "text": "1of 2"
+                }
+            ],
+            "id": "P0B28",
+            "page": 1,
+            "bottomright": {
+                "x1": 103,
+                "y1": 2225
+            },
+            "font": ""
+        }
+    ]
+}

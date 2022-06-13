@@ -1,0 +1,7 @@
+output_json_dir: "./outputJson"
+pdf_images_dir: "./pdfImages"
+debug_images_dir: "./debugImages" 
+language: eng
+
+# Current value set to default path. Can be changed to a custom directory
+tessdata: /usr/share/tesseract-ocr/4.00/tessdata

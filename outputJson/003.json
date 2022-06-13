@@ -1,0 +1,1048 @@
+{
+    "form": [
+        {
+            "topleft": {
+                "x": 55,
+                "y": 4
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 55,
+                        "y": 4,
+                        "x1": 145,
+                        "y1": 17
+                    },
+                    "text": "L~ SRR S T"
+                }
+            ],
+            "id": "P0B1",
+            "page": 1,
+            "bottomright": {
+                "x1": 145,
+                "y1": 17
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 158,
+                "y": 7
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 158,
+                        "y": 7,
+                        "x1": 167,
+                        "y1": 23
+                    },
+                    "text": "\u00bb"
+                }
+            ],
+            "id": "P0B2",
+            "page": 1,
+            "bottomright": {
+                "x1": 167,
+                "y1": 23
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 59,
+                "y": 49
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 84,
+                        "y": 49,
+                        "x1": 186,
+                        "y1": 71
+                    },
+                    "text": ". didbamelaliiy"
+                }
+            ],
+            "id": "P0B3",
+            "page": 1,
+            "bottomright": {
+                "x1": 186,
+                "y1": 71
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 31,
+                "y": 122
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 31,
+                        "y": 122,
+                        "x1": 232,
+                        "y1": 156
+                    },
+                    "text": "Date: 8/22/2019"
+                }
+            ],
+            "id": "P0B4",
+            "page": 1,
+            "bottomright": {
+                "x1": 232,
+                "y1": 156
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 38,
+                "y": 181
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 40,
+                        "y": 181,
+                        "x1": 145,
+                        "y1": 205
+                    },
+                    "text": "Shipper:"
+                },
+                {
+                    "box": {
+                        "x": 38,
+                        "y": 213,
+                        "x1": 343,
+                        "y1": 237
+                    },
+                    "text": "MARS PETCARE US INC"
+                }
+            ],
+            "id": "P0B5",
+            "page": 1,
+            "bottomright": {
+                "x1": 343,
+                "y1": 237
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 693,
+                "y": 100
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 693,
+                        "y": 100,
+                        "x1": 1313,
+                        "y1": 156
+                    },
+                    "text": "R CHR LDIF30) 688203"
+                }
+            ],
+            "id": "P0B6",
+            "page": 1,
+            "bottomright": {
+                "x1": 1313,
+                "y1": 156
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 666,
+                "y": 244
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 666,
+                        "y": 244,
+                        "x1": 892,
+                        "y1": 272
+                    },
+                    "text": "Non-Negotiable"
+                }
+            ],
+            "id": "P0B7",
+            "page": 1,
+            "bottomright": {
+                "x1": 892,
+                "y1": 272
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 41,
+                "y": 302
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 43,
+                        "y": 302,
+                        "x1": 1473,
+                        "y1": 331
+                    },
+                    "text": "RECEIVED, subject to the transportation agreement between the shipper and the carrier, if applicable, otherwise {o the ferms and conditions of the shipper's standard transportation"
+                },
+                {
+                    "box": {
+                        "x": 41,
+                        "y": 324,
+                        "x1": 1470,
+                        "y1": 345
+                    },
+                    "text": "contract in effect on the date of shipment which is available to the carrier on request, the property described herein, in apparent good order, except as noted (contents and condition"
+                }
+            ],
+            "id": "P0B8",
+            "page": 1,
+            "bottomright": {
+                "x1": 1473,
+                "y1": 345
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 41,
+                "y": 343
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 41,
+                        "y": 343,
+                        "x1": 738,
+                        "y1": 365
+                    },
+                    "text": "of contents of packages unknown), marked, consigned, and destined as shown herein"
+                }
+            ],
+            "id": "P0B9",
+            "page": 1,
+            "bottomright": {
+                "x1": 738,
+                "y1": 365
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 40,
+                "y": 362
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 40,
+                        "y": 362,
+                        "x1": 1199,
+                        "y1": 385
+                    },
+                    "text": "This Bill of Lading is not subject to any classifications or tariffs except as specifically agreed 1o in a separate writing by the shipper and the carrier."
+                }
+            ],
+            "id": "P0B10",
+            "page": 1,
+            "bottomright": {
+                "x1": 1199,
+                "y1": 385
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 1314,
+                "y": 140
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 1314,
+                        "y": 140,
+                        "x1": 1458,
+                        "y1": 161
+                    },
+                    "text": "ge 1 of 5"
+                }
+            ],
+            "id": "P0B11",
+            "page": 1,
+            "bottomright": {
+                "x1": 1458,
+                "y1": 161
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 1128,
+                "y": 189
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 1128,
+                        "y": 189,
+                        "x1": 1284,
+                        "y1": 209
+                    },
+                    "text": "Master Bill of"
+                },
+                {
+                    "box": {
+                        "x": 1128,
+                        "y": 216,
+                        "x1": 1264,
+                        "y1": 240
+                    },
+                    "text": "Lading No.:"
+                }
+            ],
+            "id": "P0B12",
+            "page": 1,
+            "bottomright": {
+                "x1": 1284,
+                "y1": 240
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 1129,
+                "y": 254
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 1129,
+                        "y": 254,
+                        "x1": 1285,
+                        "y1": 273
+                    },
+                    "text": "Carrier's No.:"
+                }
+            ],
+            "id": "P0B13",
+            "page": 1,
+            "bottomright": {
+                "x1": 1285,
+                "y1": 273
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 1311,
+                "y": 212
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 1311,
+                        "y": 212,
+                        "x1": 1448,
+                        "y1": 231
+                    },
+                    "text": "0015628602"
+                },
+                {
+                    "box": {
+                        "x": 1313,
+                        "y": 254,
+                        "x1": 1450,
+                        "y1": 273
+                    },
+                    "text": "0050002185"
+                }
+            ],
+            "id": "P0B14",
+            "page": 1,
+            "bottomright": {
+                "x1": 1450,
+                "y1": 273
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 373,
+                "y": 424
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 373,
+                        "y": 424,
+                        "x1": 1178,
+                        "y1": 446
+                    },
+                    "text": "Ship From Ship To"
+                }
+            ],
+            "id": "P0B15",
+            "page": 1,
+            "bottomright": {
+                "x1": 1178,
+                "y1": 446
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 57,
+                "y": 453
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 57,
+                        "y": 453,
+                        "x1": 1120,
+                        "y1": 476
+                    },
+                    "text": "Redlands DC 909-747-3200 | RALPHS/ PARAMOUNT DC"
+                }
+            ],
+            "id": "P0B16",
+            "page": 1,
+            "bottomright": {
+                "x1": 1120,
+                "y1": 476
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 57,
+                "y": 483
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 57,
+                        "y": 483,
+                        "x1": 1060,
+                        "y1": 505
+                    },
+                    "text": "1901 California Street 14900 GARFIELD AVE"
+                }
+            ],
+            "id": "P0B17",
+            "page": 1,
+            "bottomright": {
+                "x1": 1060,
+                "y1": 505
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 55,
+                "y": 512
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 55,
+                        "y": 512,
+                        "x1": 1095,
+                        "y1": 536
+                    },
+                    "text": "REDLANDS, CA 92374 PARAMOUNT, CA 90723"
+                }
+            ],
+            "id": "P0B18",
+            "page": 1,
+            "bottomright": {
+                "x1": 1095,
+                "y1": 536
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 18,
+                "y": 577
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 18,
+                        "y": 577,
+                        "x1": 79,
+                        "y1": 591
+                    },
+                    "text": "e"
+                },
+                {
+                    "box": {
+                        "x": 392,
+                        "y": 600,
+                        "x1": 1196,
+                        "y1": 621
+                    },
+                    "text": "Bill To Carrier Name: CUSTOMER PICKUP"
+                }
+            ],
+            "id": "P0B19",
+            "page": 1,
+            "bottomright": {
+                "x1": 1196,
+                "y1": 621
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 50,
+                "y": 639
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 50,
+                        "y": 639,
+                        "x1": 391,
+                        "y1": 661
+                    },
+                    "text": "RALPHS/ PARAMOUNT DC"
+                }
+            ],
+            "id": "P0B20",
+            "page": 1,
+            "bottomright": {
+                "x1": 391,
+                "y1": 661
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 48,
+                "y": 658
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 51,
+                        "y": 658,
+                        "x1": 1344,
+                        "y1": 691
+                    },
+                    "text": "14900 GARFIELD AVE SCAC:  BKHL i (s"
+                },
+                {
+                    "box": {
+                        "x": 48,
+                        "y": 686,
+                        "x1": 1365,
+                        "y1": 732
+                    },
+                    "text": "PARAMOUNT, CA 90723 Broker: Traller Number; 533528"
+                }
+            ],
+            "id": "P0B21",
+            "page": 1,
+            "bottomright": {
+                "x1": 1365,
+                "y1": 723
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 798,
+                "y": 724
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 798,
+                        "y": 724,
+                        "x1": 1484,
+                        "y1": 756
+                    },
+                    "text": "Ship Condition: Collection Reference: e"
+                }
+            ],
+            "id": "P0B22",
+            "page": 1,
+            "bottomright": {
+                "x1": 1484,
+                "y1": 756
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 295,
+                "y": 776
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 295,
+                        "y": 776,
+                        "x1": 526,
+                        "y1": 793
+                    },
+                    "text": "Permanent Post Office"
+                }
+            ],
+            "id": "P0B23",
+            "page": 1,
+            "bottomright": {
+                "x1": 526,
+                "y1": 793
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 41,
+                "y": 817
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 43,
+                        "y": 817,
+                        "x1": 359,
+                        "y1": 839
+                    },
+                    "text": "MARS PETCARE US INC"
+                },
+                {
+                    "box": {
+                        "x": 41,
+                        "y": 847,
+                        "x1": 318,
+                        "y1": 874
+                    },
+                    "text": "2013 Ovation Parkway"
+                },
+                {
+                    "box": {
+                        "x": 41,
+                        "y": 878,
+                        "x1": 322,
+                        "y1": 903
+                    },
+                    "text": "FRANKLIN, TN 37067"
+                }
+            ],
+            "id": "P0B24",
+            "page": 1,
+            "bottomright": {
+                "x1": 359,
+                "y1": 903
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 302,
+                "y": 973
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 302,
+                        "y": 973,
+                        "x1": 537,
+                        "y1": 997
+                    },
+                    "text": "Pickup at: Address"
+                }
+            ],
+            "id": "P0B25",
+            "page": 1,
+            "bottomright": {
+                "x1": 537,
+                "y1": 997
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 798,
+                "y": 801
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 798,
+                        "y": 801,
+                        "x1": 1020,
+                        "y1": 824
+                    },
+                    "text": "Attach Copy of B/L to"
+                },
+                {
+                    "box": {
+                        "x": 800,
+                        "y": 847,
+                        "x1": 1020,
+                        "y1": 871
+                    },
+                    "text": "Delivery Date & Time"
+                },
+                {
+                    "box": {
+                        "x": 799,
+                        "y": 896,
+                        "x1": 857,
+                        "y1": 915
+                    },
+                    "text": "Other"
+                }
+            ],
+            "id": "P0B26",
+            "page": 1,
+            "bottomright": {
+                "x1": 1020,
+                "y1": 915
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 84,
+                "y": 1037
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 84,
+                        "y": 1037,
+                        "x1": 244,
+                        "y1": 1060
+                    },
+                    "text": "DELIVERIES:"
+                },
+                {
+                    "box": {
+                        "x": 84,
+                        "y": 1088,
+                        "x1": 603,
+                        "y1": 1119
+                    },
+                    "text": "StopNo: 1 RALPHS/ PARAMOUNT DC"
+                },
+                {
+                    "box": {
+                        "x": 332,
+                        "y": 1114,
+                        "x1": 553,
+                        "y1": 1134
+                    },
+                    "text": "14800 GARFIELD AVE"
+                },
+                {
+                    "box": {
+                        "x": 326,
+                        "y": 1138,
+                        "x1": 581,
+                        "y1": 1160
+                    },
+                    "text": "PARAMOUNT, CA 90723"
+                },
+                {
+                    "box": {
+                        "x": 94,
+                        "y": 1161,
+                        "x1": 946,
+                        "y1": 1199
+                    },
+                    "text": "MARS ORDER NUMBER # CASES WEIGHT"
+                },
+                {
+                    "box": {
+                        "x": 95,
+                        "y": 1200,
+                        "x1": 944,
+                        "y1": 1237
+                    },
+                    "text": "5603163692 1741 31938 Ibs"
+                },
+                {
+                    "box": {
+                        "x": 91,
+                        "y": 1232,
+                        "x1": 944,
+                        "y1": 1279
+                    },
+                    "text": "Stop 1 Total 1741 31938 Ibs"
+                },
+                {
+                    "box": {
+                        "x": 666,
+                        "y": 1314,
+                        "x1": 945,
+                        "y1": 1338
+                    },
+                    "text": "1741 31938 Ibs"
+                }
+            ],
+            "id": "P0B27",
+            "page": 1,
+            "bottomright": {
+                "x1": 946,
+                "y1": 1338
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 6,
+                "y": 1869
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 83,
+                        "y": 1869,
+                        "x1": 337,
+                        "y1": 1895
+                    },
+                    "text": "subject to individually determingd"
+                },
+                {
+                    "box": {
+                        "x": 6,
+                        "y": 1878,
+                        "x1": 323,
+                        "y1": 1923
+                    },
+                    "text": "cevel mb\u2018em \u2018mmvll to the rates,"
+                },
+                {
+                    "box": {
+                        "x": 6,
+                        "y": 1895,
+                        "x1": 517,
+                        "y1": 1936
+                    },
+                    "text": "per. \u00a5 a;:lm ;6 to ulls:pphcmle state and federal regulations."
+                },
+                {
+                    "box": {
+                        "x": 6,
+                        "y": 1927,
+                        "x1": 138,
+                        "y1": 1943
+                    },
+                    "text": "sper, on ."
+                }
+            ],
+            "id": "P0B28",
+            "page": 1,
+            "bottomright": {
+                "x1": 517,
+                "y1": 1943
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 799,
+                "y": 1846
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 831,
+                        "y": 1846,
+                        "x1": 937,
+                        "y1": 1862
+                    },
+                    "text": "the carrier and"
+                },
+                {
+                    "box": {
+                        "x": 799,
+                        "y": 1865,
+                        "x1": 989,
+                        "y1": 1883
+                    },
+                    "text": "jer and are available to the"
+                }
+            ],
+            "id": "P0B29",
+            "page": 1,
+            "bottomright": {
+                "x1": 989,
+                "y1": 1883
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 6,
+                "y": 1943
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 40,
+                        "y": 1943,
+                        "x1": 774,
+                        "y1": 2007
+                    },
+                    "text": "HIPPER Sl NATURE/DA Trailer Loal -"
+                },
+                {
+                    "box": {
+                        "x": 310,
+                        "y": 1967,
+                        "x1": 877,
+                        "y1": 2004
+                    },
+                    "text": "propery By Shipper"
+                },
+                {
+                    "box": {
+                        "x": 87,
+                        "y": 1987,
+                        "x1": 564,
+                        "y1": 2014
+                    },
+                    "text": "thatthe above named materin\u00ae S5 PERFCL By Shipper"
+                },
+                {
+                    "box": {
+                        "x": 6,
+                        "y": 1989,
+                        "x1": 983,
+                        "y1": 2048
+                    },
+                    "text": "pmemm e O By Dverpalets 19415"
+                },
+                {
+                    "box": {
+                        "x": 6,
+                        "y": 2035,
+                        "x1": 549,
+                        "y1": 2074
+                    },
+                    "text": "o oo the DOT [ By Driver"
+                }
+            ],
+            "id": "P0B30",
+            "page": 1,
+            "bottomright": {
+                "x1": 983,
+                "y1": 2072
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 745,
+                "y": 2054
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 745,
+                        "y": 2054,
+                        "x1": 925,
+                        "y1": 2084
+                    },
+                    "text": "[ By Driver/Pieces"
+                }
+            ],
+            "id": "P0B31",
+            "page": 1,
+            "bottomright": {
+                "x1": 925,
+                "y1": 2084
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 1027,
+                "y": 769
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 1045,
+                        "y": 769,
+                        "x1": 1422,
+                        "y1": 790
+                    },
+                    "text": "Special Instructions -"
+                },
+                {
+                    "box": {
+                        "x": 1027,
+                        "y": 774,
+                        "x1": 1485,
+                        "y1": 827
+                    },
+                    "text": "Carrier's Original Freigif Bill ?Kl&h\u2019\ufb01l"
+                },
+                {
+                    "box": {
+                        "x": 1296,
+                        "y": 821,
+                        "x1": 1405,
+                        "y1": 853
+                    },
+                    "text": "Arriven"
+                },
+                {
+                    "box": {
+                        "x": 1290,
+                        "y": 850,
+                        "x1": 1412,
+                        "y1": 894
+                    },
+                    "text": "Dt"
+                }
+            ],
+            "id": "P0B32",
+            "page": 1,
+            "bottomright": {
+                "x1": 1485,
+                "y1": 894
+            },
+            "font": ""
+        },
+        {
+            "topleft": {
+                "x": 1027,
+                "y": 2260
+            },
+            "words": [
+                {
+                    "box": {
+                        "x": 1027,
+                        "y": 2260,
+                        "x1": 1559,
+                        "y1": 2291
+                    },
+                    "text": "Scanned with CamScanner"
+                }
+            ],
+            "id": "P0B33",
+            "page": 1,
+            "bottomright": {
+                "x1": 1559,
+                "y1": 2291
+            },
+            "font": ""
+        }
+    ]
+}
