@@ -1,5 +1,5 @@
 # invoice2json
-This python project will enable to convert pdf invoice to Json file.
+This python project will enable you to convert pdf invoice to Json file.
 
 ### Run for a single pdf file
 
